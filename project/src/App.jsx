@@ -7,6 +7,7 @@ import About from './Pages/About';
 import Profile from './Pages/Profile';
 import Header from './Components/Header';
 
+
 const App = () => {
   return (
     <BrowserRouter>
